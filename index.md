@@ -17,6 +17,8 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Tom Bulleted
+- Tom List
 
 1. Numbered
 2. List
